@@ -1,7 +1,9 @@
 # SQL_Project
 
 Project
-Requirements:
+
+Requirements
+
 Create a table for outstanding students from the Students table, so that this table contains data for students whose cumulative GPA is higher than 3.
 Create a table for non-pass students from the students table, so that this table contains data for students GPA is less than 1.5.
 Show student first name beginning with A.
